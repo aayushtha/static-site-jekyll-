@@ -8,7 +8,7 @@ categories: Stupid
 #IT IS ALREADY 2022 HOW DAHELL
 anyway heres a photo
 
-![alt text is doom slayer](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom_Eternal.png)
+![alt text is doom slayer](https://images.app.goo.gl/6iCcj4yppTYyGGGH6)
 This is my [favourite game](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom_Eternal.png)
 #hyperlink linking and image posting is very similar in markdown.
  
