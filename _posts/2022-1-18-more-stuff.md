@@ -8,7 +8,7 @@ categories: Stupid
 #IT IS ALREADY 2022 HOW DAHELL
 anyway heres a photo
 
-! [alt text doom slayer](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom_Eternal.png)
+![alt text doom slayer](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom_Eternal.png)
 This is my [favourite game](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom_Eternal.png)
 #hyperlink linking and image posting is very similar in markdown.
  
@@ -16,9 +16,10 @@ This is my [favourite game](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom
  
  >block quote
  >is like this
- >idk whats happening lets see later lol
+
 
 tables look like:
+
 | head | shoulders | knees | toes |
 | what | am | I | Writing |
 | please | help | I'm | sleepy |
