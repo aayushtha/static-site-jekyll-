@@ -21,6 +21,7 @@ This is my [favourite game](https://en.wikipedia.org/wiki/File:Cover_Art_of_Doom
 tables look like:
 
 | head | shoulders | knees | toes |
+| --- | --- | --- | --- |
 | what | am | I | Writing |
 | please | help | I'm | sleepy |
 | --- | --- | --- | --- |
