@@ -24,3 +24,9 @@ tables look like:
 | what | am | I | Writing |
 | please | help | I'm | sleepy |
 | --- | --- | --- | --- |
+
+| header | column a | column b |
+| --- | --- | --- |
+| dogs | 3 | 6 |
+| cats | 3 | 6 |
+| muffins | 15 | 30 |
