@@ -1,0 +1,18 @@
+ # Site settings
+ # this is a comment use # to comment in yml 
+ # to keep track of stuff
+title: Grand new blog
+
+#indentations 
+author:
+#I have left two spaces after author key and that creates a sort of nested stuff. like values inside the key author kinda stuff
+  name: Potato fryer
+  email: your-email@domain.com
+  
+description: "Grand site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
+# here is how we import a theme that is a pre-built set of options for the site. We can go to the source code of the theme and make personal changes and adaptations too.
+
+#blank lines are ignored to so they are left merely for the purpose of aesthetics.
